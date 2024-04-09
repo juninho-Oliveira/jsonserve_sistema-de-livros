@@ -1,4 +1,6 @@
-"Usuarios": [
+{ 
+    
+    "Usuarios": [
     {
       "NomeUsuario": "João",
       "IdadeUsuario": 30,
@@ -36,3 +38,4 @@
       ]
     }
   ]
+}
