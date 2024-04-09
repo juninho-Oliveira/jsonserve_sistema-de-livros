@@ -1,23 +1,22 @@
 {
-  "Usuario": [
+  "Usuarios": [
     {
-      "NomeUsuario": "5",
-      "IdadeUsuario": "House",
-      "EnderecoUsuario": "Max",
-      "EmailUsuario": "2012",
+      "NomeUsuario": "João",
+      "IdadeUsuario": 30,
+      "EnderecoUsuario": "Rua das Flores, 123",
+      "EmailUsuario": "joao@email.com",
       "TelefoneUsuario": "11985615859",
-      "id": "609f"
-    }
-  ],
-
-  "Livros": [
-    {
-      "NomeLivro": "5",
-      "AutorLivro": "House",
-      "BiografiaLivro": "Max",
-      "EdicaoLivro": "2012",
-      "EditoraLivro": "EditoraLivro",
-      "id": "609f"
+      "id": "609f",
+      "Livros": [
+        {
+          "NomeLivro": "O Pequeno Príncipe",
+          "AutorLivro": "Antoine de Saint-Exupéry",
+          "BiografiaLivro": "Um piloto cai com seu avião no deserto e ali encontra uma criança loura e frágil. Ela diz ter vindo de um pequeno planeta distante. E ali, na convivência com o piloto perdido, os dois repensam os seus valores e encontram o sentido da vida.",
+          "EdicaoLivro": "2012",
+          "EditoraLivro": "Editora XYZ",
+          "id": "609f"
+        }
+      ]
     }
   ]
 }
