@@ -1,23 +1,12 @@
-{ 
-    
-    "Usuarios": [
+{
+  "Usuarios": [
     {
       "NomeUsuario": "João",
       "IdadeUsuario": 30,
       "EnderecoUsuario": "Rua das Flores, 123",
       "EmailUsuario": "joao@email.com",
       "TelefoneUsuario": "11985615859",
-      "id": "609f",
-      "Livros": [
-        {
-          "NomeLivro": "O Pequeno Príncipe",
-          "AutorLivro": "Antoine de Saint-Exupéry",
-          "BiografiaLivro": "Um piloto cai com seu avião..... ",
-          "EdicaoLivro": "2012",
-          "EditoraLivro": "Editora XYZ",
-          "id": "609f"
-        }
-      ]
+      "id": "609f"
     },
     {
       "NomeUsuario": "Maria",
@@ -25,17 +14,25 @@
       "EnderecoUsuario": "Avenida das Estrelas, 456",
       "EmailUsuario": "maria@email.com",
       "TelefoneUsuario": "11985615860",
-      "id": "610f",
-      "Livros": [
-        {
-          "NomeLivro": "Dom Casmurro",
-          "AutorLivro": "Machado de Assis",
-          "BiografiaLivro": "Bentinho e Capitu são criados.....",
-          "EdicaoLivro": "2010",
-          "EditoraLivro": "Editora ABC",
-          "id": "610f"
-        }
-      ]
+      "id": "610f"
+    }
+  ],
+  "Livros": [
+    {
+      "NomeLivro": "O Pequeno Príncipe",
+      "AutorLivro": "Antoine de Saint-Exupéry",
+      "BiografiaLivro": "Um piloto cai com seu avião..... ",
+      "EdicaoLivro": "2012",
+      "EditoraLivro": "Editora XYZ",
+      "id": "609f"
+    },
+    {
+      "NomeLivro": "Dom Casmurro",
+      "AutorLivro": "Machado de Assis",
+      "BiografiaLivro": "Bentinho e Capitu são criados.....",
+      "EdicaoLivro": "2010",
+      "EditoraLivro": "Editora ABC",
+      "id": "610f"
     }
   ]
 }
